@@ -1,0 +1,13 @@
+
+vscode shortcuts
+
+
+ctrl+p    				to search files
+ctrl+shift+p 				to open terminal
+ctrl+shift+e				to shift between the files on left
+ctrl+shift+n				new file 
+ctrl+enter				slip side wise
+ctrl+shift+t				undo the close tabs
+ctrl+++					to zoom in
+ctrl+\					to split the current file
+ctrl+left arrow or right 		to move the courser to end of the line(left or right)
